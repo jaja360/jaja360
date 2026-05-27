@@ -35,10 +35,12 @@ I'm a post-doctoral researcher at [Université TÉLUQ](https://www.teluq.ca/) un
 
 ## 🚀 Projects
 
+- **[int_serialization_benchmark](https://github.com/fastfloat/int_serialization_benchmark):**  
+  Cutting-edge research in fast integer serialization. Includes our AVX-512 `Champagne-Lemire` algorithm.
+- **[float_serialization_benchmark](https://github.com/fastfloat/float_serialization_benchmark):**  
+  Cutting-edge research in fast, accurate floating-point serialization.
 - **[neo-bertha](https://github.com/jaja360/neo-bertha):**  
   My Kubernetes Talos OS-based hobby server cluster—because infrastructure should be both fun and reliable!
-- **[float_serialization_benchmark](https://github.com/fastfloat/float_serialization_benchmark):**  
-  Cutting-edge research in fast, accurate floating-point serialization (my main postdoc project).
 - **[jaja360.github.io](https://github.com/jaja360/jaja360.github.io) ([website](https://www.jaelgareau.com)):**  
   My personal/professional website. You’ll find my full project list, blog, and CV there.
 
@@ -47,7 +49,7 @@ I'm a post-doctoral researcher at [Université TÉLUQ](https://www.teluq.ca/) un
 ## 🏆 Achievements
 
 - Best Paper Award, Canadian-AI Conference
-- Publications at AAMAS and ECAI
+- Publications at AAMAS, ECAI, ACM SIGSPATIAL and Software: Practice and Experience
 - Contributor to many open-source projects
 
 ---
