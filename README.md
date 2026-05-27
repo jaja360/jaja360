@@ -73,4 +73,4 @@ I'm a post-doctoral researcher at [Université TÉLUQ](https://www.teluq.ca/) un
 > _“To iterate is human, to recurse divine.”_  
 > — L. Peter Deutsch
 
-Thanks for stopping by! Feel free to check out my [projects](https://www.jaelgareau.com/en/projects) or reach out if you want to talk research, code, or games.
+Thanks for stopping by! Feel free to check out my [projects](https://www.jaelgareau.com/en/#projects) or reach out if you want to talk research, code, or games.
